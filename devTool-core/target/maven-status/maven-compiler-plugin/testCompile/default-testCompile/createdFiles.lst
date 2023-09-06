@@ -1,0 +1,5 @@
+com\binturong\diy\devTool\core\shell\command\WatchTest.class
+com\binturong\diy\devTool\core\shell\command\MyClassLoader.class
+com\binturong\diy\devTool\core\shell\test\WatchTest.class
+com\binturong\diy\devTool\core\shell\server\ServerTest.class
+com\binturong\diy\devTool\core\shell\command\Test.class
